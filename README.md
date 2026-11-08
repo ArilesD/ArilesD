@@ -2,7 +2,7 @@
 
 **Étudiant en BUT Informatique, parcours Data · Data Analyst / Business Intelligence**
 
-Je suis en troisième année à l’IUT de Créteil-Vitry (UPEC). Pendant mon stage à la Préfecture de la Seine-Saint-Denis, j’ai travaillé sur deux projets Power BI consacrés au suivi d’activité et à l’analyse des équipements recensés par l’INSEE.
+Je suis en troisième année à l’IUT de Créteil-Vitry (UPEC). Mes projets universitaires couvrent plusieurs étapes du travail sur les données, de la modélisation de bases relationnelles et de l’exploitation d’API publiques à la restitution dans des cartes et des applications web. J’ai aussi travaillé sur deux projets de reporting Power BI lors de mon stage à la Préfecture de la Seine-Saint-Denis.
 
 **Outils** · Power BI, Power Query, DAX, SQL, SQLite et Python.
 

@@ -2,7 +2,7 @@
 
 **Étudiant en BUT Informatique, parcours Data · Data Analyst / Business Intelligence**
 
-Je suis en troisième année à l’IUT de Créteil-Vitry (UPEC) et je recherche une alternance Data Analyst / BI en Île-de-France. Pendant mon stage à la Préfecture de la Seine-Saint-Denis, j’ai travaillé sur deux projets Power BI consacrés au suivi d’activité et à l’analyse des équipements recensés par l’INSEE.
+Je suis en troisième année à l’IUT de Créteil-Vitry (UPEC). Pendant mon stage à la Préfecture de la Seine-Saint-Denis, j’ai travaillé sur deux projets Power BI consacrés au suivi d’activité et à l’analyse des équipements recensés par l’INSEE.
 
 **Outils** · Power BI, Power Query, DAX, SQL, SQLite et Python.
 

@@ -12,6 +12,7 @@ Je suis en troisième année à l’IUT de Créteil-Vitry (UPEC). Mes projets un
 | --- | --- |
 | **Ameli - De la base de données à l’application web** | Structuration de données de santé dans SQLite, puis restitution dans une interface web. [Base de données](https://github.com/ArilesD/database-amelie) · [Application web](https://github.com/ArilesD/site-amelie) |
 | **OcéanView - Données marines Copernicus** | Carte et graphiques pour explorer la température, la salinité et la chlorophylle-a. Démo locale avec données générées. [Code et guide de lancement](https://github.com/ArilesD/oceanview-copernicus) |
+| **DiplomAAtique - Extraction d’arrêtés administratifs** | Découpage de textes OCR en arrêtés, extraction des articles en JSON et recherche SQLite. [Code, exemple et test](https://github.com/ArilesD/diplomaatique) |
 | **Vélib’ - Cartographie des stations** | Traitement de données JSON et exploration de la répartition des stations avec Python, des cartes et des diagrammes de Voronoï. [Scripts et cartes](https://github.com/ArilesD/Projet-Velib) |
 | **Hub’Eau - Exploitation d’une API publique** | Sélection et filtrage de données issues de l’API Hub’Eau pour leur consultation dans une application web. [Dépôt du projet](https://github.com/ArilesD/site-HubEau) |
 

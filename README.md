@@ -16,4 +16,8 @@ Je suis en troisième année à l’IUT de Créteil-Vitry (UPEC). Mes projets un
 | **Vélib’ - Cartographie des stations** | Traitement de données JSON et exploration de la répartition des stations avec Python, des cartes et des diagrammes de Voronoï. [Scripts et cartes](https://github.com/ArilesD/Projet-Velib) |
 | **Hub’Eau - Exploitation d’une API publique** | Sélection et filtrage de données issues de l’API Hub’Eau pour leur consultation dans une application web. [Dépôt du projet](https://github.com/ArilesD/site-HubEau) |
 
+## Projet Power BI réalisé en stage
+
+[Équipements en Île-de-France](https://github.com/ArilesD/rapport-stage-power-bi) - Rapport Power BI sur la situation en 2024 et l’évolution depuis 2019, avec un focus sur la Seine-Saint-Denis. Préparation des données dans Power Query, modèle SQLite et mesures DAX.
+
 [Retrouver mon parcours sur LinkedIn](https://www.linkedin.com/in/ariles-dadi-2b06b0330/)

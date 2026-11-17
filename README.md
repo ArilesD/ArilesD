@@ -20,4 +20,15 @@ Je suis en troisième année à l’IUT de Créteil-Vitry (UPEC). Mes projets un
 
 [Équipements en Île-de-France](https://github.com/ArilesD/rapport-stage-power-bi) - Rapport Power BI sur la situation en 2024 et l’évolution depuis 2019, avec un focus sur la Seine-Saint-Denis. Préparation des données dans Power Query, modèle SQLite et mesures DAX.
 
+## Voir les résultats
+
+| Projet | Accès direct |
+| --- | --- |
+| Power BI | [Aperçu du tableau de bord](https://github.com/ArilesD/rapport-stage-power-bi/blob/main/apercu-departements.png) · [Rapport à télécharger pour Power BI Desktop](https://github.com/ArilesD/rapport-stage-power-bi/blob/main/Equipements-IDF-Stage.pbix) |
+| OcéanView | [Capture du graphique avec données fictives](https://github.com/ArilesD/oceanview-copernicus/blob/main/docs/graphique-demo.jpg) |
+| DiplomAAtique | [Capture de la recherche sur l’exemple fictif](https://github.com/ArilesD/diplomaatique/blob/main/docs/recherche-jardin.jpg) |
+| Ameli | [Graphique des prescriptions de la démonstration](https://github.com/ArilesD/site-amelie/blob/main/docs/prescriptions-regions-2023.png) |
+| Vélib’ | [Carte des stations](https://arilesd.github.io/Projet-Velib/velib_stations_map.html) · [Carte de Voronoï](https://arilesd.github.io/Projet-Velib/velib_stations_voronoi.html) |
+| Hub’Eau | [Capture du tableau des analyses](https://github.com/ArilesD/site-HubEau/blob/main/docs/tableau-hubeau.jpg) |
+
 [Retrouver mon parcours sur LinkedIn](https://www.linkedin.com/in/ariles-dadi-2b06b0330/)

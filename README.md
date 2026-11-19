@@ -42,7 +42,7 @@ La première préparation des applications nécessite Internet. Chaque dépôt p
 | Power BI | [Aperçu du tableau de bord](https://github.com/ArilesD/rapport-stage-power-bi/blob/main/apercu-departements.png) · [Rapport à télécharger pour Power BI Desktop](https://github.com/ArilesD/rapport-stage-power-bi/blob/main/Equipements-IDF-Stage.pbix) |
 | OcéanView | [Capture du graphique avec données fictives](https://github.com/ArilesD/oceanview-copernicus/blob/main/docs/graphique-demo.jpg) |
 | DiplomAAtique | [Capture de la recherche sur l’exemple fictif](https://github.com/ArilesD/diplomaatique/blob/main/docs/recherche-jardin.jpg) |
-| Ameli | [Graphique des prescriptions de la démonstration](https://github.com/ArilesD/site-amelie/blob/main/docs/prescriptions-regions-2023.png) |
+| Ameli | [Graphique des prescriptions par région](https://github.com/ArilesD/site-amelie/blob/main/docs/prescriptions-regions-2023.png) |
 | Vélib’ | [Carte des stations](https://arilesd.github.io/Projet-Velib/velib_stations_map.html) · [Carte de Voronoï](https://arilesd.github.io/Projet-Velib/velib_stations_voronoi.html) |
 | Hub’Eau | [Capture du tableau des analyses](https://github.com/ArilesD/site-HubEau/blob/main/docs/tableau-hubeau.jpg) |
 

@@ -20,6 +20,21 @@ Je suis en troisième année à l’IUT de Créteil-Vitry (UPEC). Mes projets un
 
 [Équipements en Île-de-France](https://github.com/ArilesD/rapport-stage-power-bi) - Rapport Power BI sur la situation en 2024 et l’évolution depuis 2019, avec un focus sur la Seine-Saint-Denis. Préparation des données dans Power Query, modèle SQLite et mesures DAX.
 
+## Télécharger et lancer les projets
+
+Télécharge le ZIP du projet, fais **Extraire tout**, puis ouvre le dossier extrait. Les applications Python proposent **LANCER.cmd** pour préparer leurs données et ouvrir le navigateur. [Installer Python 3.14](https://www.python.org/downloads/)
+
+| Projet | Téléchargement | Premier lancement |
+| --- | --- | --- |
+| Ameli | [ZIP complet](https://github.com/ArilesD/site-amelie/archive/refs/heads/main.zip) | **LANCER.cmd** prépare la base complète et ouvre le graphique régional. |
+| OcéanView | [ZIP complet](https://github.com/ArilesD/oceanview-copernicus/archive/refs/heads/main.zip) | **LANCER.cmd** prépare MySQL et les mesures fictives du dépôt public. Crée un compte puis connecte-toi. |
+| DiplomAAtique | [ZIP complet](https://github.com/ArilesD/diplomaatique/archive/refs/heads/main.zip) | **LANCER.cmd** prépare les deux arrêtés fictifs. Recherche **jardin**. |
+| Vélib’ | [ZIP complet](https://github.com/ArilesD/Projet-Velib/archive/refs/heads/main.zip) | **LANCER.cmd** ouvre les cartes. |
+| Hub’Eau | [ZIP complet](https://github.com/ArilesD/site-HubEau/archive/refs/heads/main.zip) | **LANCER.cmd** prépare la base locale. Ouvre **Carte de France**. |
+| Power BI | [ZIP complet](https://github.com/ArilesD/rapport-stage-power-bi/archive/refs/heads/main.zip) | **OUVRIR.cmd** ouvre le rapport dans Power BI Desktop sur Windows. |
+
+La première préparation des applications nécessite Internet. Chaque dépôt précise les étapes pour Windows, macOS et Linux. Le rapport PBIX nécessite Power BI Desktop sur Windows. Les cartes Vélib’ peuvent aussi être [ouvertes directement en ligne](https://arilesd.github.io/Projet-Velib/velib_stations_map.html).
+
 ## Voir les résultats
 
 | Projet | Accès direct |

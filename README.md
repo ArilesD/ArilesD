@@ -6,6 +6,12 @@ Je suis en troisième année à l’IUT de Créteil-Vitry (UPEC). Mes projets un
 
 **Outils** · Power BI, Power Query, DAX, SQL, SQLite et Python.
 
+## Mes projets en images
+
+![Sélection de six projets Data et web : Power BI, OcéanView, DiplomAAtique, Ameli, Vélib’ et Hub’Eau](assets/projets.png)
+
+Les fiches ci-dessous proposent des aperçus animés, une vidéo et les étapes pour lancer le projet. Les données utilisées dans les versions publiques et les enregistrements sont précisées dans chaque fiche.
+
 ## Projets universitaires réalisés en équipe
 
 | Projet | Ce que tu peux y découvrir |
@@ -19,6 +25,17 @@ Je suis en troisième année à l’IUT de Créteil-Vitry (UPEC). Mes projets un
 ## Projet Power BI réalisé en stage
 
 [Équipements en Île-de-France](https://github.com/ArilesD/rapport-stage-power-bi) - Rapport Power BI sur la situation en 2024 et l’évolution depuis 2019, avec un focus sur la Seine-Saint-Denis. Préparation des données dans Power Query, modèle SQLite et mesures DAX.
+
+## Voir les résultats
+
+| Projet | Accès direct |
+| --- | --- |
+| Power BI | [Aperçu animé et vidéo](https://github.com/ArilesD/rapport-stage-power-bi#aperçu-du-projet) · [Rapport à télécharger pour Power BI Desktop](https://github.com/ArilesD/rapport-stage-power-bi/blob/main/Equipements-IDF-Stage.pbix) |
+| OcéanView | [Aperçu animé et vidéo](https://github.com/ArilesD/oceanview-copernicus#aperçu-du-projet) |
+| DiplomAAtique | [Aperçu animé et vidéo](https://github.com/ArilesD/diplomaatique#aperçu-du-projet) |
+| Ameli | [Aperçu animé et vidéo](https://github.com/ArilesD/site-amelie#aperçu-du-projet) |
+| Vélib’ | [Carte des stations](https://arilesd.github.io/Projet-Velib/velib_stations_map.html) · [Carte de Voronoï](https://arilesd.github.io/Projet-Velib/velib_stations_voronoi.html) |
+| Hub’Eau | [Aperçu animé et vidéo](https://github.com/ArilesD/site-HubEau#aperçu-du-projet) |
 
 ## Télécharger et lancer les projets
 
@@ -34,16 +51,5 @@ Télécharge le ZIP du projet, fais **Extraire tout**, puis ouvre le dossier ext
 | Power BI | [ZIP complet](https://github.com/ArilesD/rapport-stage-power-bi/archive/refs/heads/main.zip) | **OUVRIR.cmd** ouvre le rapport dans Power BI Desktop sur Windows. |
 
 La première préparation des applications nécessite Internet. Chaque dépôt précise les étapes pour Windows, macOS et Linux. Le rapport PBIX nécessite Power BI Desktop sur Windows. Les cartes Vélib’ peuvent aussi être [ouvertes directement en ligne](https://arilesd.github.io/Projet-Velib/velib_stations_map.html).
-
-## Voir les résultats
-
-| Projet | Accès direct |
-| --- | --- |
-| Power BI | [Aperçu du tableau de bord](https://github.com/ArilesD/rapport-stage-power-bi/blob/main/apercu-departements.png) · [Rapport à télécharger pour Power BI Desktop](https://github.com/ArilesD/rapport-stage-power-bi/blob/main/Equipements-IDF-Stage.pbix) |
-| OcéanView | [Capture du graphique avec données fictives](https://github.com/ArilesD/oceanview-copernicus/blob/main/docs/graphique-demo.jpg) |
-| DiplomAAtique | [Capture de la recherche sur l’exemple fictif](https://github.com/ArilesD/diplomaatique/blob/main/docs/recherche-jardin.jpg) |
-| Ameli | [Graphique des prescriptions par région](https://github.com/ArilesD/site-amelie/blob/main/docs/prescriptions-regions-2023.png) |
-| Vélib’ | [Carte des stations](https://arilesd.github.io/Projet-Velib/velib_stations_map.html) · [Carte de Voronoï](https://arilesd.github.io/Projet-Velib/velib_stations_voronoi.html) |
-| Hub’Eau | [Capture du tableau des analyses](https://github.com/ArilesD/site-HubEau/blob/main/docs/tableau-hubeau.jpg) |
 
 [Retrouver mon parcours sur LinkedIn](https://www.linkedin.com/in/ariles-dadi-2b06b0330/)

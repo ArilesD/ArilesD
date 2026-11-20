@@ -6,10 +6,6 @@ Je suis en troisième année à l’IUT de Créteil-Vitry (UPEC). Mes projets un
 
 **Outils** · Power BI, Power Query, DAX, SQL, SQLite et Python.
 
-## Mes projets en images
-
-![Sélection de six projets Data et web : Power BI, OcéanView, DiplomAAtique, Ameli, Vélib’ et Hub’Eau](assets/projets.png)
-
 Les fiches ci-dessous proposent des aperçus animés, une vidéo et les étapes pour lancer le projet. Les données utilisées dans les versions publiques et les enregistrements sont précisées dans chaque fiche.
 
 ## Projets universitaires réalisés en équipe

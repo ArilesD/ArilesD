@@ -44,8 +44,8 @@ Télécharge le ZIP du projet, fais **Extraire tout**, puis ouvre le dossier ext
 | DiplomAAtique | [ZIP complet](https://github.com/ArilesD/diplomaatique/archive/refs/heads/main.zip) | **LANCER.cmd** prépare les deux arrêtés fictifs. Recherche **jardin**. |
 | Vélib’ | [ZIP complet](https://github.com/ArilesD/Projet-Velib/archive/refs/heads/main.zip) | **LANCER.cmd** ouvre les cartes. |
 | Hub’Eau | [ZIP complet](https://github.com/ArilesD/site-HubEau/archive/refs/heads/main.zip) | **LANCER.cmd** prépare la base locale. Ouvre **Carte de France**. |
-| Power BI | [ZIP complet](https://github.com/ArilesD/rapport-stage-power-bi/archive/refs/heads/main.zip) | **OUVRIR.cmd** ouvre le rapport dans Power BI Desktop sur Windows. |
+| Power BI | [ZIP complet](https://github.com/ArilesD/rapport-stage-power-bi/archive/refs/heads/main.zip) | **OUVRIR.cmd** ouvre le rapport dans Power BI Desktop. |
 
-La première préparation des applications nécessite Internet. Chaque dépôt précise les étapes pour Windows, macOS et Linux. Le rapport PBIX nécessite Power BI Desktop sur Windows. Les cartes Vélib’ peuvent aussi être [ouvertes directement en ligne](https://arilesd.github.io/Projet-Velib/velib_stations_map.html).
+La première préparation des applications nécessite Internet. Le rapport PBIX nécessite Power BI Desktop. Les cartes Vélib’ peuvent aussi être [ouvertes directement en ligne](https://arilesd.github.io/Projet-Velib/velib_stations_map.html).
 
 [Retrouver mon parcours sur LinkedIn](https://www.linkedin.com/in/ariles-dadi-2b06b0330/)

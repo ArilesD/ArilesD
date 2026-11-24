@@ -26,7 +26,7 @@ Les fiches ci-dessous proposent des aperçus animés, une vidéo et les étapes 
 
 | Projet | Accès direct |
 | --- | --- |
-| Power BI | [Aperçu animé et vidéo](https://github.com/ArilesD/rapport-stage-power-bi#aperçu-du-projet) · [Rapport à télécharger pour Power BI Desktop](https://github.com/ArilesD/rapport-stage-power-bi/blob/main/Equipements-IDF-Stage.pbix) |
+| Power BI | [Capture du rapport](https://github.com/ArilesD/rapport-stage-power-bi#aperçu-du-projet) · [Rapport à télécharger pour Power BI Desktop](https://github.com/ArilesD/rapport-stage-power-bi/blob/main/Equipements-IDF-Stage.pbix) |
 | OcéanView | [Aperçu animé et vidéo](https://github.com/ArilesD/oceanview-copernicus#aperçu-du-projet) |
 | DiplomAAtique | [Aperçu animé et vidéo](https://github.com/ArilesD/diplomaatique#aperçu-du-projet) |
 | Ameli | [Aperçu animé et vidéo](https://github.com/ArilesD/site-amelie#aperçu-du-projet) |

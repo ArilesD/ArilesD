@@ -6,46 +6,19 @@ Je suis en troisième année à l’IUT de Créteil-Vitry (UPEC). Mes projets un
 
 **Outils** · Power BI, Power Query, DAX, SQL, SQLite et Python.
 
-Les fiches ci-dessous proposent des aperçus animés, une vidéo et les étapes pour lancer le projet. Les données utilisées dans les versions publiques et les enregistrements sont précisées dans chaque fiche.
+## Mes projets
 
-## Projets universitaires réalisés en équipe
+Les cinq projets universitaires ont été réalisés en équipe, avec des tâches partagées.
 
-| Projet | Ce que tu peux y découvrir |
+| Projet | Ce qu’il présente |
 | --- | --- |
-| **Ameli - De la base de données à l’application web** | Structuration de données de santé dans SQLite, puis restitution dans une interface web. [Base de données](https://github.com/ArilesD/database-amelie) · [Application web](https://github.com/ArilesD/site-amelie) |
-| **OcéanView - Données marines Copernicus** | Carte et graphiques pour explorer la température, la salinité et la chlorophylle-a. Démo locale avec données générées. [Code et guide de lancement](https://github.com/ArilesD/oceanview-copernicus) |
-| **DiplomAAtique - Extraction d’arrêtés administratifs** | Découpage de textes OCR en arrêtés, extraction des articles en JSON et recherche SQLite. [Code, exemple et test](https://github.com/ArilesD/diplomaatique) |
-| **Vélib’ - Cartographie des stations** | Traitement de données JSON et exploration de la répartition des stations avec Python, des cartes et des diagrammes de Voronoï. [Scripts et cartes](https://github.com/ArilesD/Projet-Velib) |
-| **Hub’Eau - Exploitation d’une API publique** | Tableau des analyses Hub’Eau avec tri des résultats et carte des réseaux d’eau. [Dépôt du projet](https://github.com/ArilesD/site-HubEau) |
+| [Ameli](https://github.com/ArilesD/site-amelie) · [Base de données](https://github.com/ArilesD/database-amelie) | Données de l’Assurance maladie, base SQLite, requêtes SQL et application web. |
+| [OcéanView](https://github.com/ArilesD/oceanview-copernicus) | Cartes et graphiques de données marines. Des mesures fictives sont fournies pour lancer l’application. |
+| [DiplomAAtique](https://github.com/ArilesD/diplomaatique) | Extraction d’arrêtés administratifs et recherche dans une application web. Deux arrêtés fictifs permettent de tester le traitement. |
+| [Vélib’](https://github.com/ArilesD/Projet-Velib) | Cartes des stations et de leur voisinage avec Python. |
+| [Hub’Eau](https://github.com/ArilesD/site-HubEau) | Carte des réseaux d’eau potable et consultation d’analyses depuis une API publique. |
+| [Équipements en Île-de-France - Power BI](https://github.com/ArilesD/rapport-stage-power-bi) | Rapport réalisé en stage : préparation des données et comparaison des équipements par département et commune. |
 
-## Projet Power BI réalisé en stage
+Chaque dépôt présente le résultat du projet et explique comment le lancer.
 
-[Équipements en Île-de-France](https://github.com/ArilesD/rapport-stage-power-bi) - Rapport Power BI sur la situation en 2024 et l’évolution depuis 2019, avec un focus sur la Seine-Saint-Denis. Préparation des données dans Power Query, modèle SQLite et mesures DAX.
-
-## Voir les résultats
-
-| Projet | Accès direct |
-| --- | --- |
-| Power BI | [Capture du rapport](https://github.com/ArilesD/rapport-stage-power-bi#aperçu-du-projet) · [Rapport à télécharger pour Power BI Desktop](https://github.com/ArilesD/rapport-stage-power-bi/blob/main/Equipements-IDF-Stage.pbix) |
-| OcéanView | [Aperçu animé et vidéo](https://github.com/ArilesD/oceanview-copernicus#aperçu-du-projet) |
-| DiplomAAtique | [Aperçu animé et vidéo](https://github.com/ArilesD/diplomaatique#aperçu-du-projet) |
-| Ameli | [Aperçu animé et vidéo](https://github.com/ArilesD/site-amelie#aperçu-du-projet) |
-| Vélib’ | [Carte des stations](https://arilesd.github.io/Projet-Velib/velib_stations_map.html) · [Carte de Voronoï](https://arilesd.github.io/Projet-Velib/velib_stations_voronoi.html) |
-| Hub’Eau | [Aperçu animé et vidéo](https://github.com/ArilesD/site-HubEau#aperçu-du-projet) |
-
-## Télécharger et lancer les projets
-
-Télécharge le ZIP du projet, fais **Extraire tout**, puis ouvre le dossier extrait. Les applications Python proposent **LANCER.cmd** pour préparer leurs données et ouvrir le navigateur. [Installer Python 3.14](https://www.python.org/downloads/)
-
-| Projet | Téléchargement | Premier lancement |
-| --- | --- | --- |
-| Ameli | [ZIP complet](https://github.com/ArilesD/site-amelie/archive/refs/heads/main.zip) | **LANCER.cmd** prépare la base complète et ouvre le graphique régional. |
-| OcéanView | [ZIP complet](https://github.com/ArilesD/oceanview-copernicus/archive/refs/heads/main.zip) | **LANCER.cmd** prépare MySQL et les mesures fictives du dépôt public. Crée un compte puis connecte-toi. |
-| DiplomAAtique | [ZIP complet](https://github.com/ArilesD/diplomaatique/archive/refs/heads/main.zip) | **LANCER.cmd** prépare les deux arrêtés fictifs. Recherche **jardin**. |
-| Vélib’ | [ZIP complet](https://github.com/ArilesD/Projet-Velib/archive/refs/heads/main.zip) | **LANCER.cmd** ouvre les cartes. |
-| Hub’Eau | [ZIP complet](https://github.com/ArilesD/site-HubEau/archive/refs/heads/main.zip) | **LANCER.cmd** prépare la base locale. Ouvre **Carte de France**. |
-| Power BI | [ZIP complet](https://github.com/ArilesD/rapport-stage-power-bi/archive/refs/heads/main.zip) | **OUVRIR.cmd** ouvre le rapport dans Power BI Desktop. |
-
-La première préparation des applications nécessite Internet. Le rapport PBIX nécessite Power BI Desktop. Les cartes Vélib’ peuvent aussi être [ouvertes directement en ligne](https://arilesd.github.io/Projet-Velib/velib_stations_map.html).
-
-[Retrouver mon parcours sur LinkedIn](https://www.linkedin.com/in/ariles-dadi-2b06b0330/)
+[Mon parcours sur LinkedIn](https://www.linkedin.com/in/ariles-dadi-2b06b0330/)
